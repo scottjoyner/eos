@@ -1,7 +1,17 @@
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** This README originates from the EOSIO source project. Upstream badges, version support, release statements, and maintainer instructions do not demonstrate corresponding results for `scottjoyner/eos`.
-> 
-> **Before deploying:** Identify the exact branch/commit and dependency versions, audit smart-contract/network configuration, and use an isolated development chain before interacting with financial assets.
+## Repository guide
+
+**Repository context:** This README originates from the EOSIO source project. Upstream badges, version support, release statements, and maintainer instructions do not demonstrate corresponding results for `scottjoyner/eos`.
+
+**Before deploying:** Identify the exact branch/commit and dependency versions, audit smart-contract/network configuration, and use an isolated development chain before interacting with financial assets.
+
+### Find your way
+
+- [Supported Operating Systems](#supported-operating-systems)
+- [Resources](#resources)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
 <!-- repo-entrypoint-guide:end -->
 
 
