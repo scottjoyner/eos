@@ -1,3 +1,9 @@
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** This README originates from the EOSIO source project. Upstream badges, version support, release statements, and maintainer instructions do not demonstrate corresponding results for `scottjoyner/eos`.
+> 
+> **Before deploying:** Identify the exact branch/commit and dependency versions, audit smart-contract/network configuration, and use an isolated development chain before interacting with financial assets.
+<!-- repo-entrypoint-guide:end -->
+
 
 # EOSIO - The Most Powerful Infrastructure for Decentralized Applications
 
